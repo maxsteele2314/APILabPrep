@@ -1,0 +1,36 @@
+body{
+    background-color:
+}
+
+
+h1{
+    font-family: monospace;
+    font-size: 80px;
+    text-align: center;
+    color: blue;
+     border-style: double;
+     background-color: white
+}
+
+ h2{
+    font-size: 45px;
+    text-align: center;
+    color: blue;
+     border-style: double;
+      background-color: white
+}
+    
+ p{
+     font-size: 30px;
+     text-align: center;
+     background-color: lightgreen;
+     border-style: solid;
+   
+}
+
+ol{
+    font-size: 25px;
+    background-color: lightgreen;
+    border-style: solid;
+    
+}
